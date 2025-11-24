@@ -1,6 +1,6 @@
 [project]
 name = "pydantic-obstore"
-version = "0.0.2"
+version = "0.0.3"
 description = "Pydantic models for obstore"
 readme = "README.md"
 authors = [
